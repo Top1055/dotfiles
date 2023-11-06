@@ -1,13 +1,13 @@
 # NVIM ⌨
-My configuration files for neovim.
+- My configuration files for neovim.
 
-This neovim configuration features many keybind changes, a fuzzy finder, color theme and a langauge server among other things.
+- This neovim configuration features many keybind changes, a fuzzy finder, color theme and a langauge server among other things.
 
 ## Requirements
 ### 1. Neovim built from source
-    - Wiki can be found [here](https://github.com/neovim/neovim/wiki/Building-Neovim)
+- Wiki can be found [here](https://github.com/neovim/neovim/wiki/Building-Neovim)
 ### 2. Packer
-    - Instructions can be found [here](https://github.com/wbthomason/packer.nvim#quickstart)
+- Instructions can be found [here](https://github.com/wbthomason/packer.nvim#quickstart)
 
 ## Install this config
 (If not done already) create a nvim config folder:
